@@ -1,54 +1,54 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `Object`:🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🖐️ used
+  - `Symbol`: 👂 heard
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
   - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
+  - Destructuring: 🖐️ used
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
+  - Async generator: 👂 heard
+  - Async iterator: 👂 heard
+  - Chaining: 👂 heard
   - Optional chaining
-  - IIFE
-  - Async IIFE
+  - IIFE: 🎓 known
+  - Async IIFE: 👂 heard
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
+  - Getters and setters: 🖐️ used
+  - `__proto__`: 🎓 known
+  - `prototype`: 🎓 known
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🖐️ used
+  - `void`: 🖐️ used
+  - `yield`: 👂 heard
+  - `await`: 👂 heard
+  - Template literal: 🖐️ used
+  - Strict mode: 🖐️ used
+  - Hoisting: 👂 heard
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
+  - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`
   - Property descriptors
   - Sealing properties
@@ -59,63 +59,64 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 👂 heard
+  - `throw`: 🎓 known
+  - `break`: 🖐️ used
+  - `continue`: 🎓 known
+  - `import`: 👂 heard
+  - `export`: 👂 heard
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `try..catch`: 🎓 known
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
   - `extends`
   - `with`
-  - `new`
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
   - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
+  - `return`: 🖐️ used
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - Weak collections
-  - Typed arrays
-  - Mixins
-  - `Object.assign`
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
+  - `Set`: 🎓 known
+  - Weak collections: 🎓 known
+  - Typed arrays: 🎓 known
+  - Mixins: 🖐️ used
+  - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
+  - `Proxy`: 👂 heard
+  - `RegExp`: 👂 heard
+  - `Date`: 👂 heard
+  - `Math`: 🎓 known
   - `Reflect`
-  - `Error`
+  - `Error`: 🎓 known
   - `Atomics`
-  - `JSON`
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise`: 👂 heard
+  - `console`: 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39
+
