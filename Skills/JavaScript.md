@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - `Object`:🖐️ used
+  - `Object`: 🖐️ used
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
@@ -119,4 +119,3 @@
   - prettier: 🖐️ used
   - MDN: 🖐️ used
   - TC39
-
